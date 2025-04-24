@@ -1,0 +1,27 @@
+Data logging initiated - 14/4/2025
+Location - UNNC New library 3F
+Minute			0Temperature	  27.22 C
+
+Minute			1Temperature	  27.22 C
+
+Minute			2Temperature	  27.22 C
+
+Minute			3Temperature	  27.22 C
+
+Minute			4Temperature	  27.22 C
+
+Minute			5Temperature	  27.22 C
+
+Minute			6Temperature	  27.22 C
+
+Minute			7Temperature	  27.22 C
+
+Minute			8Temperature	  27.22 C
+
+Minute			9Temperature	  27.22 C
+
+Minute			10Temperature	  27.22 C
+
+Max temp	  28.69 CMin temp	  27.22 CAverage temp	  27.94 C
+
+Data logging terminated
